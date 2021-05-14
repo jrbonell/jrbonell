@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @jrbonell
 - 👀 I’m interested in ...
-- 🌱 Actualmente estoy aprendiendo:
-  Estoy tratando de aprender C#
+- 🌱 Actualmente estoy aprendiendo C#
   También la aplicación de los patrones de arquitectura de sistemas
 - 💞️ I’m looking to collaborate on ...
 - 📫 Como contactarme:
